@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "3512570587",
+    "project_id": "fir-learning-app-101bd",
+    "storage_bucket": "fir-learning-app-101bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3512570587:android:9424fc5a3762f12f02b2fe",
+        "android_client_info": {
+          "package_name": "com.chinatown254.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3512570587-7rq4dv7mhh2hvr9pthq14gud9fmb9jbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chinatown254.firebase",
+            "certificate_hash": "dc33202d898b47bfe4a815878e01e318c668ce61"
+          }
+        },
+        {
+          "client_id": "3512570587-vvbinn5rl7kmh8bj00t0immk1s7k6pev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMvgXsMs0q_PHQ_JzcRHkKZK8820yiaA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3512570587-vvbinn5rl7kmh8bj00t0immk1s7k6pev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
